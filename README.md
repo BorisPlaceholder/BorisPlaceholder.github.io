@@ -5,10 +5,16 @@
 #### (TOO LAZY TO BOOT UP RISE ON MY SWITCH TO TAKE A SINGLE SCREENSHOT.)
 ### HE WILL BE THE BEST MAYOR OF THIS TOWN
 #### (ACTUALLY, IS IT EVEN A TOWN OR JUST A VILLAGE?)
-<button name="BUY TETSU MERCH">VOTE TETSU</button>
-<form action="https://github.com/BorisPlaceholder/images/blob/main/mastertetsu.png?raw=true">
+<form action="https://borisplaceholder.github.io/merchshopbutnotreally/">
+  <input type="submit" value="BUY TETSU MERCH" />
+</form>
+<form action="https://borisplaceholder.github.io/moretetsu/">
+  <input type="submit" value="TETSU" />
+</form>
+<form action="https://borisplaceholder.github.io/thanksforthevote/">
   <input type="submit" value="VOTE TETSU" />
 </form>
+
 
 
 
