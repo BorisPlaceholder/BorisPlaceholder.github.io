@@ -5,8 +5,10 @@
 #### (TOO LAZY TO BOOT UP RISE ON MY SWITCH TO TAKE A SINGLE SCREENSHOT.)
 ### HE WILL BE THE BEST MAYOR OF THIS TOWN
 #### (ACTUALLY, IS IT EVEN A TOWN OR JUST A VILLAGE?)
-<button name="VOTE TETSU">VOTE TETSU</button>
-#### (THE BUTTON DOESN'T DO ANYTHING.)
+<button name="BUY TETSU MERCH">VOTE TETSU</button>
+<form action="https://github.com/BorisPlaceholder/images/blob/main/mastertetsu.png?raw=true">
+  <input type="submit" value="VOTE TETSU" />
+</form>
 
 
 
