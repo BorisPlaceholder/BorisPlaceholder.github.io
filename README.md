@@ -8,7 +8,7 @@
 >>TETSU
 >>>TETSU
 
-![tetsu](https://github.com/BorisPlaceholder/BorisPlaceholder.github.io/blob/main/huntermonster.jpg)
+![tetsu](https://github.com/BorisPlaceholder/images/blob/main/mastertetsu.png?raw=true)
 
 
 
